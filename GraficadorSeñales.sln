@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraficadorSeñales", "GraficadorSeñales\GraficadorSeñales.csproj", "{867A795C-D496-449C-B57D-A8A6A5AE1C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867A795C-D496-449C-B57D-A8A6A5AE1C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867A795C-D496-449C-B57D-A8A6A5AE1C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867A795C-D496-449C-B57D-A8A6A5AE1C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867A795C-D496-449C-B57D-A8A6A5AE1C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B43D5E-B274-4FFB-8E80-D062D2B41A63}
+	EndGlobalSection
+EndGlobal
